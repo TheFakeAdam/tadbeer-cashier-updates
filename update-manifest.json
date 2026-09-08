@@ -1,8 +1,8 @@
-﻿{
+{
   "packageName": "Tadbeer.Cashier.DotNet",
-  "version": "2.3.4.0",
-  "msixUrl": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/download/v2.3.4.0/Tadbeer-V2.3.4.zip",
-  "appInstaller": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/tag/v2.3.4.0",
+  "version": "2.3.5.0",
+  "msixUrl": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/download/v2.3.5.0/Tadbeer-V2.3.5.zip",
+  "appInstaller": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/tag/v2.3.5.0",
   "channel": "stable",
-  "notes": "Portable .NET Windows cashier. Extract and run Tadbeer.Cashier.exe."
+  "notes": "Fix update feed, pending sales list, header buttons on the right, Close label."
 }
