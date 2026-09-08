@@ -1,8 +1,8 @@
 {
   "packageName": "Tadbeer.Cashier.DotNet",
-  "version": "2.3.6.0",
-  "msixUrl": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/download/v2.3.6.0/Tadbeer-V2.3.6.zip",
-  "appInstaller": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/tag/v2.3.6.0",
+  "version": "2.3.7.0",
+  "msixUrl": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/download/v2.3.7.0/Tadbeer-V2.3.7.zip",
+  "appInstaller": "https://github.com/TheFakeAdam/tadbeer-cashier-updates/releases/tag/v2.3.7.0",
   "channel": "stable",
-  "notes": "Serialized products: qty 1 + serial, queue repair/discard for failed POS sales."
+  "notes": "Tap-to-cart works when serialized flag has no serial stock."
 }
